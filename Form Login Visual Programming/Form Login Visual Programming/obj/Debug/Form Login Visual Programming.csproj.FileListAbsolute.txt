@@ -1,0 +1,11 @@
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\bin\Debug\Form Login Visual Programming.exe.config
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\bin\Debug\Form Login Visual Programming.exe
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\bin\Debug\Form Login Visual Programming.pdb
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form Login Visual Programming.csproj.AssemblyReference.cache
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form_Login_Visual_Programming.Form1.resources
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form_Login_Visual_Programming.MainForm.resources
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form_Login_Visual_Programming.Properties.Resources.resources
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form Login Visual Programming.csproj.GenerateResource.cache
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form Login Visual Programming.csproj.CoreCompileInputs.cache
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form Login Visual Programming.exe
+C:\Users\Sambi\source\repos\Form Login Visual Programming\Form Login Visual Programming\obj\Debug\Form Login Visual Programming.pdb
